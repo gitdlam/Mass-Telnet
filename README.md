@@ -1,3 +1,4 @@
+Autopallet
 Mass-Telnet command 
 =============
 
